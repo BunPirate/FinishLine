@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "{7EC5C939-4F48-EAE7-F9BA-9DBA331CA552}",
+	"EngineAssociation": "{BEB113DB-42E6-50CD-1FA5-BFA6A05A36F5}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -18,6 +18,10 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
 		}
 	]
 }
